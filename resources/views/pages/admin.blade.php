@@ -12,7 +12,7 @@
 <section>
   <nav class="side-nav" style="height:100%">
     <ul>
-      <li><a href="{{route('admin_students')}}">Students</a></li>
+      <li><a href="{{route('admin_students')}}">Students YAWAW</a></li>
       <li><a href="{{route('admin_departments')}}">Departments</a></li>
       <li><a href="{{route('admin_incharge')}}">In-charge</a></li>
     </ul>
